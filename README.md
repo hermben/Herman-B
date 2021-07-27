@@ -31,10 +31,10 @@
 ![Microsoft](https://github.com/hermben/Herman-B/blob/main/Img/Mi-Logo.png)
 - I'm currently a DCT at Microsoft and student in the Microsoft Leap program to become a software Engineer 
 
-Upwork
+![Upwork](https://github.com/hermben/Herman-B/blob/main/Img/up-logo.png)
 - Developed a rental app using PHP Laravel based on customer needs
 
-Amazon
+![Amazon](https://github.com/hermben/Herman-B/blob/main/Img/am-logo.png)
 - day-to-day incident management of servers and networking equipment     
 - Diagnosed and Troubleshooted support tickets
 - Set up and troubleshooted complex networks  
