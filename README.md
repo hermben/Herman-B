@@ -28,7 +28,7 @@
 
 # Experience
 
-Microsoft
+![Microsoft](./Img/Mi-logo.png)
 - I'm currently a DCT at Microsoft and student in the Microsoft Leap program to become a software Engineer 
 
 Upwork
