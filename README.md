@@ -28,7 +28,7 @@
 
 # Experience
 
-![Microsoft](./Img/Mi-logo.png)
+![Microsoft](https://github.com/hermben/Herman-B/blob/main/Img/Mi-Logo.png)
 - I'm currently a DCT at Microsoft and student in the Microsoft Leap program to become a software Engineer 
 
 Upwork
